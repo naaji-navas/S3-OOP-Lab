@@ -6,7 +6,7 @@
 
 int main() {
     int number;
-    //input from the user
+    //input the data  from the user
     std::cout << "Enter the number to check :";
     std::cin >> number;
 
